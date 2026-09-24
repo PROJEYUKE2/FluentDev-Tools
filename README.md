@@ -3,7 +3,7 @@
   <h1>FluentDev Tools</h1>
   <p><b>The ultimate, 100% offline-first toolkit for modern developers.</b></p>
   
-  <a href="SENIN_MICROSOFT_STORE_LINKIN_BURAYA">
+  <a href="https://apps.microsoft.com/store/detail/9PHV86ZR4JN8?cid=DevShareMCLPCS">
     <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="160" alt="Get it from Microsoft Store"/>
   </a>
 </div>
