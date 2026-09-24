@@ -32,7 +32,7 @@ Tired of pasting your sensitive API keys, customer data, and private configurati
 </div>
 
 ## 🛠 Installation
-Download and install the verified package directly from the [Microsoft Store](SENIN_MICROSOFT_STORE_LINKIN_BURAYA).
+Download and install the verified package directly from the [Microsoft Store](https://apps.microsoft.com/store/detail/9PHV86ZR4JN8?cid=DevShareMCLPCS).
 
 ## 💬 Feedback & Support
 Found a bug or have a feature request? We'd love to hear from you! 
