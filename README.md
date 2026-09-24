@@ -18,12 +18,12 @@ Tired of pasting your sensitive API keys, customer data, and private configurati
 ### 🆓 Free Tools
 - **JSON Validator & Formatter:** Instantly validate and debug complex JSON payloads.
 - **Base64 Encoder/Decoder:** UTF-8 compliant fast encoding.
-- **Cloud Config Validator:** Validate Google Cloud (GCP) and Firebase configuration files in seconds.
-- **AI Prompt Studio:** Combine prompts and estimate token costs locally.
 
 ### 💎 Pro Tools (One-time Upgrade)
 - **Offline API Mock Server:** Spin up a local mock server with latency simulation to test your frontend.
 - **Enterprise Data Mapper:** Instantly convert complex JSON into production-ready C# classes and records.
+- **Cloud Config Validator:** Validate Google Cloud (GCP) and Firebase configuration files in seconds.
+- **AI Prompt Studio:** Combine prompts and estimate token costs locally.
 
 ## 📸 Screenshots
 <div align="center">
